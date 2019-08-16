@@ -1,3 +1,32 @@
+.home-title{
+    float: left;
+}
+.personal-photo{
+    height: 226px;
+    width: 228px;
+    background-color: black;
+    float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+}
 .social-icons{
     width: 100px;
     margin: 0 auto;
