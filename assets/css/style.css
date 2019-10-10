@@ -1,29 +1,4 @@
-.home-title{
-    float: left;
-}
-.personal-photo{
-    height: 226px;
-    width: 228px;
-    background-color: black;
-    float:right;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Footer Styles */
 footer{
     background-color: black;
 }
@@ -40,3 +15,36 @@ float: right;
 .footer-copyright{
     clear: both;
 }
+
+/* Index Page Styles */
+.home-title{
+    float: left;
+}
+.personal-photo{
+    width:400px;
+    height: 400px;
+    background-color: black;
+    float:right;
+}
+
+/* Project Page Styling */
+.projectcontainer{
+    margin-top: 50px;
+}
+.projectcontainerheader{
+    margin-bottom: 50px;
+}
+.card{
+    width: 525px;
+    height: 400px;
+}
+a.customcard,
+a.customcard:hover {
+    text-decoration: none;
+    color: inherit;
+}
+.card-img-top{
+    width: 100%!important;
+    height: 100%!important;
+    object-fit: cover;
+ }
