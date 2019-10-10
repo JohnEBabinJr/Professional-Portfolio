@@ -1,4 +1,4 @@
-/* Footer Styles */
+/* Footer Styling */
 footer{
     background-color: black;
 }
@@ -16,7 +16,7 @@ float: right;
     clear: both;
 }
 
-/* Index Page Styles */
+/* Index Page Styling */
 .home-title{
     float: left;
 }
@@ -48,3 +48,11 @@ a.customcard:hover {
     height: 100%!important;
     object-fit: cover;
  }
+ /* Contact Page Styling */
+ .contactcontainerheader{
+    margin-top: 50px;
+}
+
+.contactinfo{
+    margin-top: 250px;
+}
