@@ -62,3 +62,8 @@ a.customcard:hover {
 .contactinfo {
   margin-top: 250px;
 }
+.email-anchor,
+.email-anchor:hover {
+  text-decoration: none;
+  color: inherit;
+}
